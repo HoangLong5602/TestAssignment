@@ -1,0 +1,6 @@
+.git
+*.exe
+*.md
+docs/
+*.test
+.DS_Store
